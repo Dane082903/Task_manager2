@@ -1,0 +1,43 @@
+{
+    "task":[
+        {
+            "id": 1,
+            "title":"Complete Flutter Assignment",
+            "description":"Implement CRUD using BLoC",
+            "status":"Pending",
+            "dueDate":"2024-03-18"
+        }
+
+        {
+            "id":2,
+            "title":"Buy Groceries",
+            "description":"Milks, Eggs, Bread",
+            "status":"Completed",
+            "dueDate":"2024-03-18"
+        }
+
+        {
+            "id":3,
+            "title":"Concept note",
+            "description":"provide three titles",
+            "status":"Completed",
+            "dueDate":"2025-03-13"
+        }
+
+        {
+            "id":4,
+            "title":"flutter Certificate",
+            "description":"finish lesson 1 on CodSignal",
+            "status":"Completed",
+            "dueDate":"2025-03-20"
+        }
+
+        {
+            "id":5,
+            "title":"title defense",
+            "description":"approval of capstone title",
+            "status":"Pending",
+            "dueDate":"2024-03-21"
+        }
+    ]
+}
